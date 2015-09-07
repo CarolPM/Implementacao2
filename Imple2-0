@@ -267,6 +267,10 @@ int main()
         {
             OperarK(pontE, pontS);
         }
+	else if(pontE[0] == 'I')
+	{
+	    OperarI(pontE, pontS);
+	}
 
         aux = pontE;
         pontE = pontS;

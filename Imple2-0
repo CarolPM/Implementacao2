@@ -12,6 +12,7 @@ int tamResto;
 int cont_S;
 int cont_K;
 int cont_P;
+int cont_I;
 
 /*void substituirY()
 {
